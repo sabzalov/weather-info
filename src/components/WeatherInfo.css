@@ -1,0 +1,17 @@
+.overlay {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+}
+
+.overlay p {
+    text-transform: capitalize;
+}
+.overlay p:first-child {
+    margin-top: 0;
+}
+.overlay p:last-child {
+    margin-bottom: 0;
+}

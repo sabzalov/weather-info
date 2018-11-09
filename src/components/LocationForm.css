@@ -1,0 +1,17 @@
+.submit {
+    border-radius: 0;
+    border: 1px solid #444;
+    padding: 10px;
+    background: rgba(0, 50, 200, 1);
+    color: #fff;
+    appearance: none;
+    cursor: pointer;
+}
+.submit:hover {
+    background: rgba(0, 50, 200, 0.6);
+}
+
+.location-input {
+    margin-bottom: 20px;
+    padding: 5px;
+}
